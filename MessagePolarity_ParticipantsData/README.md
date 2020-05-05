@@ -4,7 +4,7 @@
 
 #### The dataset has been reduced to 37 features form 53 features
 
-![Feature Elimination with Cross Validation](MessagePolarity_ParticipantsData/Images/feature_Selection.png)
+![Feature Elimination with Cross Validation](https://github.com/VpkPrasanna/Machine-Hack/blob/master/MessagePolarity_ParticipantsData/Images/feature_Selection.png)
 
 ### with this we can identify with 37 features we can acheive over 90% Accuracy
 
