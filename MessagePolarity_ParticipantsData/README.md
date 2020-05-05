@@ -8,6 +8,8 @@
 
 ### with this we can identify with 37 features we can acheive over 90% Accuracy
 
-![Feature Importance](MessagePolarity_ParticipantsData/Images/feature_importance.png)
+**_Most Important Features_**
 
-[Data added](www.youtube.com)
+![Feature Importance](https://github.com/VpkPrasanna/Machine-Hack/blob/master/MessagePolarity_ParticipantsData/Images/feature_importance.png)
+
+>Love to code and learn to code
